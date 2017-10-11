@@ -1,0 +1,28 @@
+h1.flashy {
+font-style: italic;
+color: red;
+}
+h2 {
+  font-family: sans-serif;
+  font-weight: bold;
+  width: 50%;
+  font-style: italic;
+  color: grey;
+}
+p.seasons {
+font-weight: bold;
+width: 50%;
+}
+
+img {
+    height: 350px;
+    width: 648px;
+    background-color: powderblue;
+}
+
+
+li.best {
+  font-style: italic;
+  color: orange;
+  font-size: 20px;
+}
